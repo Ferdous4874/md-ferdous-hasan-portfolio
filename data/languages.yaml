@@ -1,0 +1,9 @@
+# Spoken languages with a proficiency label and a percentage (0-100) for the bar.
+
+- name: "Bangla"
+  level: "Native"
+  percent: 100
+
+- name: "English"
+  level: "Fluent"
+  percent: 85

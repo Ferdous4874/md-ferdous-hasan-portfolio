@@ -1,0 +1,15 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Md. Ferdous Hasan — Data Science Student'
+
+theme = 'kiyomi-portfolio'
+
+[params]
+  firstName = "Md. Ferdous"
+  lastName = "Hasan"
+  tagline = "Data Science Student | Machine Learning & AI"
+  email = "mfh4874@gmail.com"
+  linkedin = "https://www.linkedin.com/in/md-ferdous-hasan-a05448356/"
+  location = "Dhaka, Bangladesh"
+  profileImage = "/images/profile.png"
+  description = "Data Science student interested in machine learning, explainable AI and artificial intelligence."

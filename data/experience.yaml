@@ -1,0 +1,26 @@
+# Academic research and projects, newest first.
+
+- company: "Academic Research & Projects"
+  title: "Data Science & Machine Learning Research"
+  period: "2026 - Present"
+  context: "Academic research and project work focused on machine learning, deep learning, explainable AI and environmental data analysis."
+  bullets:
+    - "Conducting research and developing machine learning solutions for real-world data science problems."
+    - "Working with Explainable AI techniques to understand and interpret machine learning and deep learning predictions."
+    - "Exploring environmental data and machine learning approaches for air quality prediction."
+  projects:
+    - title: "Explainable AI for Early Alzheimer's Disease Detection Using Deep Learning"
+      desc: "BSc final research project focused on using deep learning for early Alzheimer's disease detection with Explainable AI techniques to interpret model predictions."
+      tags:
+        - "Python"
+        - "Deep Learning"
+        - "Explainable AI"
+        - "SHAP"
+
+    - title: "Air Quality Prediction Using Machine Learning"
+      desc: "Machine learning research focused on predicting urban air quality using environmental and air pollution data, with emphasis on model explainability."
+      tags:
+        - "Python"
+        - "Machine Learning"
+        - "Air Quality"
+        - "Explainable AI"

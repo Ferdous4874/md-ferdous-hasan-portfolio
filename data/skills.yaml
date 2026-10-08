@@ -1,0 +1,33 @@
+# Skills grouped by category.
+
+- category: "Programming Languages"
+  items:
+    - name: "Python"
+      explanation: "Used for programming, data analysis and machine learning projects."
+    - name: "C"
+      explanation: "Used for programming fundamentals, problem solving and systems-related coursework."
+    - name: "C++"
+      explanation: "Used for object-oriented programming, problem solving and software development."
+    - name: "Java"
+      explanation: "Used for object-oriented programming and software development."
+
+- category: "Data Science & Machine Learning"
+  items:
+    - name: "NumPy"
+      explanation: "Used for numerical computing, array operations and data processing."
+    - name: "Scikit-learn"
+      explanation: "Used for machine learning model development, preprocessing and model evaluation."
+    - name: "Explainable AI"
+      explanation: "Used to understand and interpret machine learning model predictions."
+    - name: "SHAP"
+      explanation: "Used to explain machine learning predictions and analyze feature importance."
+
+- category: "Database"
+  items:
+    - name: "MySQL"
+      explanation: "Used for relational database management, SQL queries and data handling."
+
+- category: "Computer Networking"
+  items:
+    - name: "Cisco Networking"
+      explanation: "Used for computer networking, router configuration and network connectivity using Cisco technologies."
