@@ -11,5 +11,5 @@ theme = 'kiyomi-portfolio'
   email = "mfh4874@gmail.com"
   linkedin = "https://www.linkedin.com/in/md-ferdous-hasan-a05448356/"
   location = "Dhaka, Bangladesh"
-  profileImage = "/images/profile.png"
+  profileImage = "images/profile.png"
   description = "Data Science student interested in machine learning, explainable AI and artificial intelligence."
